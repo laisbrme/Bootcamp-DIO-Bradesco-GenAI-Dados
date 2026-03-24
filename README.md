@@ -1,28 +1,33 @@
-# Bootcamp Bradesco - Java Cloud Native (DIO)
+# Bootcamp Bradesco - Gen AI & Dados
 
-Este repositório foi criado para armazenar os projetos desenvolvidos durante o Bootcamp Bradesco - Java Cloud Native, realizado pela [DIO](https://www.dio.me/). O foco principal é a aplicação prática de tecnologias emergentes, com ênfase inicial em Inteligência Artificial Generativa aplicada ao setor financeiro.
+Este repositório centraliza meus estudos, desafios de projeto e laboratórios práticos realizados durante o Bootcamp Bradesco - Gen AI & Dados em parceria com a [DIO](https://www.dio.me/).
 
-## 🚀 Desafios de Projeto
+O objetivo do programa é dominar a análise e organização de dados utilizando ferramentas tradicionais e Inteligência Artificial Generativa para otimizar processos do dia a dia.
 
-### Módulo: Acelere seu Aprendizado com IA Generativa
+## 📚 Estrutura de Módulos
 
-O objetivo deste módulo foi explorar o potencial da IA Generativa para sintetizar e organizar conhecimentos complexos de forma acessível e educativa.
+### Módulo 1: Acelere seu Aprendizado com IA Generativa
 
-#### 📁 Projeto 1: Guia de Renda Fixa e Reserva de Emergência
-Este projeto consistiu na criação de um caderno temático utilizando o **NotebookLM** da Google. O conteúdo foi estruturado para servir como um guia introdutório para quem deseja começar a investir.
+* **Projeto:** [Primeiros Passos na Renda Fixa e Reserva de Emergência](https://notebooklm.google.com/notebook/3959de16-72a8-4da2-bb55-98af96120d9a?pli=1).
+    * Aplicação do Google NotebookLM para sintetizar conceitos financeiros básicos.
 
-* **Conteúdo abordado:** Conceitos básicos de Renda Fixa, critérios para escolha de ativos e a importância da construção de uma reserva de emergência.
-* **Ferramenta utilizada:** Google NotebookLM.
-* **Acesse aqui:** [Primeiros Passos na Renda Fixa e Reserva de Emergência](https://notebooklm.google.com/notebook/3959de16-72a8-4da2-bb55-98af96120d9a?pli=1).
+### Módulo 2: Do Excel ao SQL: Domine seus dados com Inteligência
+Foco em manipulação de dados e ferramentas de produtividade.
+
+* **Atividade Prática:** Introdução ao Excel 365 (`myFirstWorkbook.xlsx`).
+    * **Conceitos:** Células, intervalos, referências absolutas ($) e atalhos de produtividade (F2, F4, Ctrl+Enter).
+    * **Recursos:** Validação de dados, formatação condicional, funções de contagem e gráficos de progresso.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-* **IA Generativa:** NotebookLM para processamento de linguagem natural e organização de fontes.
-* **Documentação:** Markdown para estruturação de projetos no GitHub.
+* **Linguagens:** Python, SQL.
+* **Ferramentas:** Excel, Microsoft Copilot.
+* **IAs:** ChatGPT, Google NotebookLM.
 
 ## ✍️ Autora
 **Laís**
-Desenvolvimento de sistemas e entusiasta de IA Generativa.
 * [GitHub](https://github.com/laisbrme)
+* [LinkedIn](https://www.linkedin.com/in/lais-brum)
+* [E-mail](mailto:eng.laisbm@gmail.com)
 ---
